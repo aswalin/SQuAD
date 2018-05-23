@@ -1,7 +1,7 @@
 # SQuAD
 Building the QA system for Stanford Question Answering Datatset (https://rajpurkar.github.io/SQuAD-explorer/)
 
-Please read this blog for details: https://medium.com/@aswalin/building-a-question-answering-system-part-1-9388aadff507
+Please read this blog for details: https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507
 
 The first file create_emb.ipynb takes care of creating a dictionary of sentence embedding for all the sentences and questions in the wikipedia articles of training dataset
 
